@@ -1,4 +1,3 @@
-# hello-world
-Intro
+# Python Projects
 
-First file to get to know github and how to create a repository
+My repositories of python codes
